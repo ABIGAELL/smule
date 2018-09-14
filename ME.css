@@ -14,10 +14,11 @@ body{
 .upper_container{
   text-align: center;
   font-family:Garamond;
-border: 5px solid  white;
+border: 5px solid  black;
 margin-left: 20%;
 margin-right: 20%;
 margin-top: 5%;
+background:#f1f1f1;
 
 
 
@@ -52,4 +53,7 @@ margin-top: 5%;
 #links:hover {
   background-color: #555555;
     color: white;
+}
+
+
 }
